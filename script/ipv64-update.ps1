@@ -4,7 +4,7 @@ Set-StrictMode -Version Latest
 # =========================
 # Configuration
 # =========================
-$DOMAIN = "DEINE_URL"  # must be the DynDNS hostname registered at ipv64.net
+$DOMAIN       = "DEINE_URL"  # must be the DynDNS hostname registered at ipv64.net
 $DOMAIN_TOKEN = "DEIN_TOKEN" # the update token provided by ipv64.net
 $DYNDNS_PROVIDER = "https://ipv64.net/nic/update"
 
