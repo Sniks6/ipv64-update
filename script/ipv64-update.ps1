@@ -4,8 +4,8 @@ Set-StrictMode -Version Latest
 # =========================
 # Configuration
 # =========================
-$DOMAIN = "XXXXXXX.ipv64.net"
-$DOMAIN_TOKEN = "XXXXXX"
+$DOMAIN = "DEINE_URL"
+$DOMAIN_TOKEN = "DEIN_TOKEN"
 $DYNDNS_PROVIDER = "https://ipv64.net/nic/update"
 
 # Logging
