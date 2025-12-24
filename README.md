@@ -22,11 +22,8 @@ PowerShell script for dynamically updating a DynDNS record at **ipv64.net**.
 2. Adjust the following configuration variables to match your setup:
 
 ```bash
-$DOMAIN       = "YOUR_DOMAIN_NAME"
-$DOMAIN_TOKEN = "YOUR_IPV64_TOKEN"
+$DOMAIN       = "YOUR_DOMAIN_NAME"  # must be the DynDNS hostname registered at ipv64.net
+$DOMAIN_TOKEN = "YOUR_IPV64_TOKEN"  # the update token provided by ipv64.net
 ```
 
-DOMAIN must be the DynDNS hostname registered at ipv64.net
-DOMAIN_TOKEN is the update token provided by ipv64.net
-
-1. Save the script after updating the values.
+3. Save the script after updating the values.
