@@ -26,4 +26,4 @@ $DOMAIN       = "YOUR_DOMAIN_NAME"  # must be the DynDNS hostname registered at 
 $DOMAIN_TOKEN = "YOUR_IPV64_TOKEN"  # the update token provided by ipv64.net
 ```
 
-3. Save the script after updating the values.
+1. Save the script after updating the values.
